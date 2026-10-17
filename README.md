@@ -53,7 +53,7 @@ It adds a **Claude** tab to the bottom panel: you type, Claude reads and edits y
 ### Option B: clone the repo
 
 ```bash
-git clone https://github.com/<your-user>/godot-claude-terminal.git
+git clone https://github.com/SMUELDigital/godot-claude-terminal.git
 ```
 Copy the `addons/claude_terminal` folder into your project's `addons/` folder, then enable it as in step 3 above.
 
